@@ -1,9 +1,3 @@
-/* Anna Del Negro
- * Dr. Steinberg
- * COP3503 Spring 2024
- * Programming Assignment 1
- */
-
 import java.util.Random;
 
 public class Game {
